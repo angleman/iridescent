@@ -1,4 +1,4 @@
-# iridescent [![Build Status](https://travis-ci.org/angleman/iridescent.png?branch=master)](https://travis-ci.org/angleman/iridescent/builds) [![Dependencies](http://badgr.co/dependencies/None.png?bg=%2343d100)](#) [![License](http://badgr.co/use/MIT.png?bg=%2343d100)](#licensemit)
+# iridescent [![Dependencies](http://badgr.co/dependencies/None.png?bg=%2343d100)](#) [![License](http://badgr.co/use/MIT.png?bg=%2343d100)](#licensemit)
 
 Iridescent is all CSS dialogs, alerts and bubbles that require no javascript.
 
@@ -18,4 +18,6 @@ bower install iridescent
 
 ## License: MIT :unlock:
 
-## Original concepts and initial work by [Nicolas Gallagher](http://nicolasgallagher.com) and [Richard Hollis](https://github.com/richhollis)
+## Credits :busts_in_silhouette:
+
+Original concepts and initial work by [Nicolas Gallagher](http://nicolasgallagher.com) and [Richard Hollis](https://github.com/richhollis)
