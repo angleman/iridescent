@@ -1,6 +1,6 @@
 {
   "name": "iridescent",
-  "version": "0.1.0", 
+  "version": "0.1.1", 
   "description": "Iridescent is all CSS dialogs, alerts and bubbles that require no javascript.",
    "main": "iridescent.css",
   "scripts": {
