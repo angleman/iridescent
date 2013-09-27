@@ -4,7 +4,7 @@
   "description": "Iridescent is all CSS dialogs, alerts and bubbles that require no javascript.",
    "main": "iridescent.css",
   "scripts": {
-    "test": "exit 0",
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
@@ -23,10 +23,8 @@
   "dependencies": {
   },
   "devDependencies": {
-     "license-md": "~0.2.5",
      "grunt":      "~0.4.x",
      "grunt-bump": "~0.0.x",
-     "mocha":      "~1.12.0",
-     "should":     "~1.2.2"
+     "mocha":      "~1.12.0"
    }
 }
