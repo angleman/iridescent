@@ -1,6 +1,6 @@
 {
   "name": "iridescent",
-  "version": "0.1.2", 
+  "version": "0.1.3", 
   "homepage": "https://github.com/angleman/iridescent",
   "description": "Iridescent is all CSS dialogs, alerts and bubbles that are Bootstrap and PureCSS friendly and requires no javascript for Angular JS as they can be controlled via ng-class",
   "main": "iridescent.min.css",
