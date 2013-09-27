@@ -1,0 +1,24 @@
+{
+  "name": "iridescent",
+  "version": "0.1.0",
+  "homepage": "https://github.com/angleman/iridescent",
+  "description": "Iridescent is all CSS dialogs, alerts and bubbles that requires no javascript",
+  "keywords": [
+    "css",
+    "dialogs",
+    "alerts",
+    "bubbles",
+    "purecss",
+    "pure css",
+    "speech bubbles",
+    "modal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

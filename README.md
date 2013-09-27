@@ -6,26 +6,16 @@ Iridescent is all CSS dialogs, alerts and bubbles that require no javascript.
 ## Install :hammer:
 
 ```
-npm install iridescent
+bower install iridescent
 ```
 
 ## Usage :wrench:
 
-```
-var iridescent = require('iridescent');
-iridescent({
-	option: null
-}, function(err, data) {
-	if (err) {
-		console.log(err);
-	} else {
-		console.log(data);
-	}
-});
+```html
+<div class="quote"><blockquote><p>My Message</p></blockquote></div>
 ```
 
 
 ## License: MIT :unlock:
 
-Dependencies:
-
+## Original concepts and initial work by [Nicolas Gallagher](http://nicolasgallagher.com) and [Richard Hollis](https://github.com/richhollis)
