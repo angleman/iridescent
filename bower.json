@@ -2,7 +2,8 @@
   "name": "iridescent",
   "version": "0.1.2", 
   "homepage": "https://github.com/angleman/iridescent",
-  "description": "Iridescent is all CSS dialogs, alerts and bubbles that requires no javascript",
+  "description": "Iridescent is all CSS dialogs, alerts and bubbles that are Bootstrap and PureCSS friendly and requires no javascript for Angular JS as they can be controlled via ng-class",
+  "main": "iridescent.min.css",
   "keywords": [
     "css",
     "dialogs",
@@ -11,8 +12,16 @@
     "purecss",
     "pure css",
     "speech bubbles",
+    "angular",
+    "angularjs",
+    "ng-class",
+    "bootstrap",
     "modal"
   ],
+  "repository": { 
+    "type": "git", 
+    "url": "git://github.com/angleman/iridescent.git" 
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
